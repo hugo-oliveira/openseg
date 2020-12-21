@@ -1,2 +1,2 @@
-# openseg
-Open Set Semantic Segmentation
+# OpenSeg
+Fully Convolutional Open Set Segmentation
